@@ -1,5 +1,5 @@
 {
-  "name": "Elias Thompson EmoTracker Packages",
+  "name": "Elias Thompson EmoTracker Package Repository",
   "packages": [{
     "name": "Metroid Prime Randomizer EmoTracker",
     "author": "Elias Thompson",
@@ -8,7 +8,7 @@
     "flags": ["chathud"],
     "required_app_version": "2.3.8.17",
     "uid": "metroid_prime_randomizer_emotracker_eliasthompson",
-    "link": "TBD",
+    "link": "https://eliasthompson.github.io/emotracker-package-repository/metroid_prime_randomizer_emotracker_eliasthompson.zip",
     "variants": [{
       "name": "Item Tracker",
       "flags": ["chathud"]
