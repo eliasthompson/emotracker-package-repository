@@ -4,7 +4,7 @@
     "name": "Metroid Prime Randomizer EmoTracker",
     "author": "Elias Thompson",
     "game_name": "Metroid Prime Randomizer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "flags": ["chathud"],
     "required_app_version": "2.3.8.17",
     "uid": "metroid_prime_randomizer_emotracker_eliasthompson",
